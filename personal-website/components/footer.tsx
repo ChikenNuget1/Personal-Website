@@ -2,7 +2,7 @@
 export default function Footer(){
     return(
         <footer className="bg-[#0F252F] px-30 pt-12 pb-6 font-heading
-                    [clip-path:ellipse(80%_95%_at_50%_100%)] mt-20 text-4xl">
+                    [clip-path:ellipse(80%_95%_at_50%_100%)] mt-20 text-5xl">
             <div className="flex justify-between items-center mt-5">
                 <div className="flex justify-center items-center">
                     <a href="/" className="w-40 mt-2">
